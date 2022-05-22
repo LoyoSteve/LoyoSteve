@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola 👋
+
+Mi nombre es Miguel Angel soy estudiante del tecnologico de estudios superiores de ecatepec y actualmente estoy interesado en el desarrollo web
+
+### Página web
+
+Puedes ver mis trabajos que he realizado y conocerme mas a fondo, no te olvides de visitar mi canal si estas interesado
+
+https://miguel-mendez-loyo.netlify.app/home
 
 <!--
 **LoyoSteve/LoyoSteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
