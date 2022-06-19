@@ -1,8 +1,8 @@
 ### Acerca de mi 👋
 
-Hola soy Miguel soy recién egresado del Tecnológico de Estudios Superiores de Ecatepec, mi perfil esta enfocado en el desarrollo web, me gusta mucho diseñar paginas web, programarlas, optimizarlas y desplegarlas.
+Hola soy Miguel 🎮 soy recién egresado del Tecnológico de Estudios Superiores de Ecatepec 📚💻, mi perfil esta enfocado en el desarrollo web, me gusta mucho diseñar paginas web, programarlas, optimizarlas y desplegarlas. 😆✨
 
-Me gusta mucho crear videos, explicar cosas, aprender cosas nuevas, me adapto bien a los cambios, soy diligente, me gusta el ejercicio y soy amante de la música 🎶
+Me gusta mucho crear videos, explicar temas, aprender cosas nuevas, soy paciente, me adapto bien a los cambios, soy diligente, me gusta el ejercicio, aportar mi granito de arena en cualquier equipo y soy amante de la música 🎶
 
 ### Página web 💻
 
